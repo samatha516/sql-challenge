@@ -1,3 +1,3 @@
 # sql-challenge
-For ER diagram please refer to below link
+For ER diagram please click this link
 https://app.quickdatabasediagrams.com/#/d/v4zrIo
