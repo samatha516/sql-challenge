@@ -27,6 +27,7 @@ select first_name, last_name, hire_date
  
 -- List the manager of each department with the following information: department number, department name, 
 -- the manager's employee number, last name, first name.
+-- 
 -- there are 2 ways to get the results. 
 -- solution 1
 select d.dept_no, d.dept_name, e.emp_no, e.first_name, e.last_name
