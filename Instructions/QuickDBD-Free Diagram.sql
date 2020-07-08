@@ -37,6 +37,7 @@ CREATE TABLE  dept_emp  (
      dept_no  char(4)   NOT NULL
 );
 
+-- we don't need this table as we can get the manager information using dept_emp and emp_title from emp table 
 CREATE TABLE  dept_manager  (
      dept_no  char(04)   NOT NULL,
      emp_no  int   NOT NULL
